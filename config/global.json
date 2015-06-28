@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "GPS Bay": {
+      "applicationId": "FfEJVtoyijKBGwxON6SklYnXodGyWoeepo8d1FhA",
+      "masterKey": "Z8vXALzzgLR2gM2qjCMeMzd9KGyT0uL2Db6ncyPL"
+    },
+    "_default": {
+      "link": "GPS Bay"
+    }
+  }
+}
